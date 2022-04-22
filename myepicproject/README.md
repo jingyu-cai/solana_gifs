@@ -1,2 +1,2 @@
-# giphy3
+# myepicproject
 Learning Solana programs with Rust and Anchor...

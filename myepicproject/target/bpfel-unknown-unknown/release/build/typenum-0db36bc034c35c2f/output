@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jingyucai/Documents/Blockchain/Rust Tutorial/myepicproject/target/bpfel-unknown-unknown/release/build/typenum-0db36bc034c35c2f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jingyucai/Documents/Blockchain/Rust Tutorial/myepicproject/target/bpfel-unknown-unknown/release/build/typenum-0db36bc034c35c2f/out/op.rs
